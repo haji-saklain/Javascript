@@ -49,14 +49,14 @@ JavaScript offers three ways to declare variables:
 ```javascript
 let name = "Haji";
 const age = 25;
-var city = "Karachi";
+var city = "Hyderabad";
 
 console.log(name, age, city);
 ```
 
 #### Output:
 ```
-Haji 25 Karachi
+Haji 25 Hyderabad
 ```
 
 ### Data Types
