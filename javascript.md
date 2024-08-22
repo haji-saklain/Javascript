@@ -1,4 +1,4 @@
-# JavaScript Documentation for Backend Development
+# JavaScript Documentation
 
 ## Table of Contents
 1. [Introduction to JavaScript](#introduction-to-javascript)
